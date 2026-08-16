@@ -1,0 +1,9 @@
+python -c "import sys; print(sys.executable)"
+python -m pip show streamlit-agraph
+python -c "import streamlit_agraph; print(streamlit_agraph.__file__)"
+
+
+C:\Users\miste\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\feature_extraction\text.py:406: UserWarning: Your stop_words may be inconsistent with your preprocessing. Tokenizing the stop words generated tokens ['coming', 'tell', 'want'] not in stop_words.
+  warnings.warn(
+C:\Users\miste\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\feature_extraction\text.py:406: UserWarning: Your stop_words may be inconsistent with your preprocessing. Tokenizing the stop words generated tokens ['coming', 'tell', 'want'] not in stop_words.
+  warnings.warn(
